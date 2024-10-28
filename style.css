@@ -22,8 +22,8 @@ section {
 }
 
 .profile-photo {
-    width: 150px; /* Set a width for the profile photo */
-    height: 150px; /* Maintain aspect ratio */
+    width: 100px; /* Set a width for the profile photo */
+    height: 100px; /* Maintain aspect ratio */
     border-radius: 75px; /* Makes the image circular */
     display: block; /* Centering */
     margin: 0 auto 20px; /* Center image and add margin below */
