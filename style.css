@@ -20,6 +20,7 @@ section {
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
 .profile-photo {
     width: 150px; /* Set a width for the profile photo */
     height: auto; /* Maintain aspect ratio */
