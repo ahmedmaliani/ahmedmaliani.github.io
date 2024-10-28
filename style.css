@@ -26,7 +26,9 @@ section {
     height: auto; /* Maintain aspect ratio */
     border-radius: 75px; /* Makes the image circular */
     display: block; /* Centering */
-    margin: 0 auto 20px; /* Margin for spacing */
+    margin: 0 auto 20px; /* Center image and add margin below */
+    border: 2px solid #333; /* Optional: Add a border around the image */
+    position: relative; /* You can set position if needed */
 }
 
 footer {
